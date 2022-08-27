@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.ag-theme-alpine{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.add-btn{
+  margin-bottom: 1rem;
 }
